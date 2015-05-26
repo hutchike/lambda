@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var lambda = require(__dirname + '/../lib/lambda');
+lambda.cli();
